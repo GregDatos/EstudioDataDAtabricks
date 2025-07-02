@@ -1,0 +1,6 @@
+UserID,Gender,Age,Country,IsActive
+1,M,25,USA,True
+2,F,30,Canada,True
+3,M,22,Mexico,False
+4,F,40,Spain,True
+5,M,35,USA,False

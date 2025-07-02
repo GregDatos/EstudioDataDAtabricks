@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,OnSale
+101,Laptop,Electronics,999.99,False
+102,Headphones,Electronics,199.99,True
+103,Desk,Furniture,350.0,False
+104,Coffee Maker,Appliances,120.0,True
+105,Notebook,Stationery,5.99,True
