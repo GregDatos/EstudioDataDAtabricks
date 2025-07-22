@@ -1,0 +1,8 @@
+[
+  {"EmployeeID": 101, "Name": "Alice", "Department": "HR", "Salary": 60000, "Address": {"City": "New York", "Zip": "10001"}},
+  {"EmployeeID": 102, "Name": "Bob", "Department": "IT", "Salary": 75000, "Address": {"City": "Toronto", "Zip": "M5H"}},
+  {"EmployeeID": 103, "Name": "Charlie", "Department": "Finance", "Salary": null, "Address": {"City": "Mexico City", "Zip": "01000"}},
+  {"EmployeeID": 104, "Name": "Alice", "Department": "HR", "Salary": 60000, "Address": {"City": "New York", "Zip": "10001"}},
+  {"EmployeeID": 105, "Name": "Eve", "Department": "IT", "Salary": 72000, "Address": {"City": "Madrid", "Zip": "28001"}},
+  {"EmployeeID": 106, "Name": null, "Department": "Finance", "Salary": 68000, "Address": {"City": null, "Zip": null}}
+]

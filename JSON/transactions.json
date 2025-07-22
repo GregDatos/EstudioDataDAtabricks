@@ -1,0 +1,8 @@
+[
+  {"TransactionID": 2001, "UserID": 1, "Amount": 49.99, "Currency": "USD", "Timestamp": "2024-06-10 14:30:00"},
+  {"TransactionID": 2002, "UserID": 2, "Amount": 23.50, "Currency": "CAD", "Timestamp": "2024-06-10 15:00:00"},
+  {"TransactionID": 2003, "UserID": 1, "Amount": 49.99, "Currency": "USD", "Timestamp": "2024-06-10 14:30:00"},
+  {"TransactionID": 2004, "UserID": 3, "Amount": null,  "Currency": "MXN", "Timestamp": "2024-06-11 09:00:00"},
+  {"TransactionID": 2005, "UserID": 5, "Amount": 19.99, "Currency": "USD", "Timestamp": "2024-06-11 11:15:00"},
+  {"TransactionID": 2006, "UserID": 2, "Amount": 23.50, "Currency": "CAD", "Timestamp": "2024-06-10 15:00:00"}
+]
