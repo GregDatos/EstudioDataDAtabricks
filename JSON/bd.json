@@ -1,0 +1,36 @@
+[
+  {
+    "EmployeeID": 1,
+    "Name": "Ana López",
+    "Department": "Ventas",
+    "Transactions": [
+      {"TransactionID": 2001, "Amount": 49.99, "Currency": "USD", "Timestamp": "2024-06-10 14:30:00"},
+      {"TransactionID": 2003, "Amount": 49.99, "Currency": "USD", "Timestamp": "2024-06-10 14:30:00"}
+    ]
+  },
+  {
+    "EmployeeID": 2,
+    "Name": "Juan Pérez",
+    "Department": "Marketing",
+    "Transactions": [
+      {"TransactionID": 2002, "Amount": 23.50, "Currency": "CAD", "Timestamp": "2024-06-10 15:00:00"},
+      {"TransactionID": 2006, "Amount": 23.50, "Currency": "CAD", "Timestamp": "2024-06-10 15:00:00"}
+    ]
+  },
+  {
+    "EmployeeID": 3,
+    "Name": "María Gómez",
+    "Department": "Finanzas",
+    "Transactions": [
+      {"TransactionID": 2004, "Amount": null, "Currency": "MXN", "Timestamp": "2024-06-11 09:00:00"}
+    ]
+  },
+  {
+    "EmployeeID": 5,
+    "Name": "Carlos Ruiz",
+    "Department": "IT",
+    "Transactions": [
+      {"TransactionID": 2005, "Amount": 19.99, "Currency": "USD", "Timestamp": "2024-06-11 11:15:00"}
+    ]
+  }
+]
